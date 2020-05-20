@@ -4,6 +4,6 @@
 
 ### Demo
 #### Although these appear static, it is because they are screenshots. The webcam is a video stream.
-![](https://i.imgur.com/vnPRuSv.jpg)
+![](https://i.imgur.com/vnPRuSv.jpg | width 100)
 
-![](https://i.imgur.com/aUcZPgH.jpg)
+![](https://i.imgur.com/aUcZPgH.jpg | width 100)
